@@ -1,0 +1,9 @@
+{
+  "imports": {
+    "@supabase/supabase-js": "npm:@supabase/supabase-js@2.43.1",
+    "langchain/": "https://esm.sh/langchain@0.2.0/",
+    "@langchain/openai/": "https://esm.sh/@langchain/openai@0.0.28/",
+    "@langchain/core/": "https://esm.sh/@langchain/core@0.1.62/",
+    "@langchain/community/": "https://esm.sh/@langchain/community@0.0.56/"
+  }
+}
